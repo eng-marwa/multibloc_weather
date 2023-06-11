@@ -1,0 +1,1 @@
+List<String> cities = ["Cairo","Jeddah","London","New York","Kuwait"];
